@@ -7,6 +7,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DaichiAndo)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,git,github,githubactions,heroku,netlify,firebase,html,css,sass,bootstrap,js,ts,vue,nuxtjs,vuetify,react,nextjs,materialui,jquery,jest,cypress,webpack,nodejs,express,npm,yarn,ruby,rails,py,php,nginx,mysql,redis
+)](https://skillicons.dev)
+
+
+
 <!--
 **DaichiAndo/DaichiAndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

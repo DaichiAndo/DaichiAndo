@@ -2,8 +2,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaichiAndo)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaichiAndo&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaichiAndo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaichiAndo)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaichiAndo)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiAndo&layout=compact" />
